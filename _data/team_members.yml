@@ -106,6 +106,13 @@
   url: https://jingwuouo.github.io/
   number_educ: 2
   education1: B.S. in Physics, Fudan University, 2017
+  education2: M.S. in CS, Georgia Institute of Technology, in progress
+  
+- name: Disha Das
+  photo: Disha.jpg
+  info: M.S. student, Computer Science, started Aug 2019
+  email: ddas71@gatech.edu
+  number_educ: 1
   education1: M.S. in CS, Georgia Institute of Technology, in progress
       
 - name: Alejandro Escontrela
